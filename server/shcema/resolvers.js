@@ -56,3 +56,5 @@ getSingleUser: async (parent, { username }) => {
 },
 },
 };
+
+module.exports = resolvers;
